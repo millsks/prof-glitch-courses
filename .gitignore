@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# .DS_Store - macOS system file that stores custom folder attributes and metadata
+.DS_Store
+
+# Thumbs.db - Windows system file that caches thumbnail images for folders
+Thumbs.db
