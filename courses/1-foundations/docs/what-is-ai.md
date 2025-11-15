@@ -11,9 +11,12 @@ At its core, AI is about creating machines that can think, learn, and act in way
 
 ## Four Flavors of AI
 
-AI comes in different forms, each with distinct capabilities and applications. Understanding these four primary categories helps us grasp both the current state and future potential of artificial intelligence. From specialized systems that excel at specific tasks to the theoretical concept of machines with human-level intelligence, these flavors represent different points along the AI spectrum.
-
-<img src="images/four_flavors_of_ai.png" alt="Four flavors of AI" width="500" />
+<table>
+<tr>
+<td>AI comes in different forms, each with distinct capabilities and applications. Understanding these four primary categories helps us grasp both the current state and future potential of artificial intelligence. From specialized systems that excel at specific tasks to the theoretical concept of machines with human-level intelligence, these flavors represent different points along the AI spectrum.</td>
+<td><img src="images/four_flavors_of_ai.png" alt="Four flavors of AI" width="2000" /></td>
+</tr>
+</table>
 
 ### Narrow AI
 
